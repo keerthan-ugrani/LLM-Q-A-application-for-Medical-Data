@@ -1,0 +1,20 @@
+# Ignore all large dataset files
+*.txt
+*.csv
+*.xml
+*.json
+*.html
+*.zip
+
+# Ignore VS Code and IntelliJ Settings
+*.vscode
+*.idea
+
+# Ignore specific enironment API keys
+*.env
+
+# Ignore all saved models
+*.safetensors
+*.bin
+*.pt
+*.pth
